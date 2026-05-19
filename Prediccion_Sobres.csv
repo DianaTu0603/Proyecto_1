@@ -1,0 +1,185 @@
+﻿Año_Mes,Codigo,Tipo_Documento,Total_Sobres,Proyeccion,Limite_Inf,Limite_Sup,Tipo,Orden_Mes
+2026-04,120069,Tipo pendiente por clasificar,1.0,1.0,,,Histórico,6
+2026-05,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,7
+2026-06,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,8
+2026-07,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,9
+2026-08,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,10
+2026-09,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,11
+2026-10,120069,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,12
+2025-11,12010.,Sobre mal marcado,1.0,1.0,,,Histórico,1
+2025-12,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,2
+2026-01,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,3
+2026-02,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,4
+2026-03,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,5
+2026-04,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,6
+2026-05,12010.,Sobre mal marcado,,1.0,0.5,1.5,Proyección,7
+2025-11,120101,Cierre de venta,377.0,377.0,,,Histórico,1
+2025-12,120101,Cierre de venta,344.0,344.0,,,Histórico,2
+2026-01,120101,Cierre de venta,415.0,415.0,,,Histórico,3
+2026-02,120101,Cierre de venta,392.0,392.0,,,Histórico,4
+2026-03,120101,Cierre de venta,560.0,560.0,,,Histórico,5
+2026-04,120101,Cierre de venta,352.0,352.0,,,Histórico,6
+2026-05,120101,Cierre de venta,,447.7,336.8,558.6,Proyección,7
+2026-06,120101,Cierre de venta,,453.9,297.1,610.7,Proyección,8
+2026-07,120101,Cierre de venta,,458.7,266.6,650.8,Proyección,9
+2026-08,120101,Cierre de venta,,462.6,240.8,684.4,Proyección,10
+2026-09,120101,Cierre de venta,,465.8,217.8,713.8,Proyección,11
+2026-10,120101,Cierre de venta,,468.3,196.7,739.9,Proyección,12
+2025-11,120102,Promesa de compraventa,136.0,136.0,,,Histórico,1
+2025-12,120102,Promesa de compraventa,75.0,75.0,,,Histórico,2
+2026-01,120102,Promesa de compraventa,69.0,69.0,,,Histórico,3
+2026-02,120102,Promesa de compraventa,64.0,64.0,,,Histórico,4
+2026-03,120102,Promesa de compraventa,127.0,127.0,,,Histórico,5
+2026-04,120102,Promesa de compraventa,169.0,169.0,,,Histórico,6
+2026-05,120102,Promesa de compraventa,,205.4,162.3,248.5,Proyección,7
+2026-06,120102,Promesa de compraventa,,234.6,173.7,295.5,Proyección,8
+2026-07,120102,Promesa de compraventa,,258.0,183.4,332.6,Proyección,9
+2026-08,120102,Promesa de compraventa,,276.7,190.6,362.8,Proyección,10
+2026-09,120102,Promesa de compraventa,,291.6,195.3,387.9,Proyección,11
+2026-10,120102,Promesa de compraventa,,303.6,198.1,409.1,Proyección,12
+2025-11,120103,Otrosí,448.0,448.0,,,Histórico,1
+2025-12,120103,Otrosí,408.0,408.0,,,Histórico,2
+2026-01,120103,Otrosí,319.0,319.0,,,Histórico,3
+2026-02,120103,Otrosí,326.0,326.0,,,Histórico,4
+2026-03,120103,Otrosí,341.0,341.0,,,Histórico,5
+2026-04,120103,Otrosí,415.0,415.0,,,Histórico,6
+2026-05,120103,Otrosí,,458.6,392.5,524.7,Proyección,7
+2026-06,120103,Otrosí,,499.3,405.8,592.8,Proyección,8
+2026-07,120103,Otrosí,,531.9,417.4,646.4,Proyección,9
+2026-08,120103,Otrosí,,558.0,425.8,690.2,Proyección,10
+2026-09,120103,Otrosí,,578.9,431.1,726.7,Proyección,11
+2026-10,120103,Otrosí,,595.6,433.7,757.5,Proyección,12
+2025-11,120104,Cesión de derechos,78.0,78.0,,,Histórico,1
+2025-12,120104,Cesión de derechos,69.0,69.0,,,Histórico,2
+2026-01,120104,Cesión de derechos,64.0,64.0,,,Histórico,3
+2026-02,120104,Cesión de derechos,61.0,61.0,,,Histórico,4
+2026-03,120104,Cesión de derechos,45.0,45.0,,,Histórico,5
+2026-04,120104,Cesión de derechos,44.0,44.0,,,Histórico,6
+2026-05,120104,Cesión de derechos,,35.8,31.3,40.3,Proyección,7
+2026-06,120104,Cesión de derechos,,29.0,22.6,35.4,Proyección,8
+2026-07,120104,Cesión de derechos,,22.1,14.3,29.9,Proyección,9
+2026-08,120104,Cesión de derechos,,15.4,6.3,24.5,Proyección,10
+2026-09,120104,Cesión de derechos,,8.6,0.0,18.7,Proyección,11
+2026-10,120104,Cesión de derechos,,1.9,0.0,13.0,Proyección,12
+2025-12,120105,Tipo pendiente por clasificar,1.0,1.0,,,Histórico,2
+2026-01,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,3
+2026-02,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,4
+2026-03,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,5
+2026-04,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,6
+2026-05,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,7
+2026-06,120105,Tipo pendiente por clasificar,,1.0,0.5,1.5,Proyección,8
+2025-11,120106,Otrosí ajuste de salarios,19.0,19.0,,,Histórico,1
+2025-12,120106,Otrosí ajuste de salarios,12.0,12.0,,,Histórico,2
+2026-01,120106,Otrosí ajuste de salarios,4.0,4.0,,,Histórico,3
+2026-02,120106,Otrosí ajuste de salarios,3.0,3.0,,,Histórico,4
+2026-03,120106,Otrosí ajuste de salarios,515.0,515.0,,,Histórico,5
+2026-04,120106,Otrosí ajuste de salarios,460.0,460.0,,,Histórico,6
+2026-05,120106,Otrosí ajuste de salarios,,537.0,314.3,759.7,Proyección,7
+2026-06,120106,Otrosí ajuste de salarios,,640.9,325.9,955.9,Proyección,8
+2026-07,120106,Otrosí ajuste de salarios,,744.1,358.3,1129.9,Proyección,9
+2026-08,120106,Otrosí ajuste de salarios,,846.9,401.4,1292.4,Proyección,10
+2026-09,120106,Otrosí ajuste de salarios,,949.2,451.1,1447.3,Proyección,11
+2026-10,120106,Otrosí ajuste de salarios,,1050.9,505.3,1596.5,Proyección,12
+2025-11,120107,Contrato mera tenencia,47.0,47.0,,,Histórico,1
+2025-12,120107,Contrato mera tenencia,6.0,6.0,,,Histórico,2
+2026-01,120107,Contrato mera tenencia,32.0,32.0,,,Histórico,3
+2026-02,120107,Contrato mera tenencia,21.0,21.0,,,Histórico,4
+2026-03,120107,Contrato mera tenencia,15.0,15.0,,,Histórico,5
+2026-04,120107,Contrato mera tenencia,20.0,20.0,,,Histórico,6
+2026-05,120107,Contrato mera tenencia,,13.5,0.0,32.1,Proyección,7
+2026-06,120107,Contrato mera tenencia,,12.0,0.0,38.3,Proyección,8
+2026-07,120107,Contrato mera tenencia,,10.8,0.0,43.0,Proyección,9
+2026-08,120107,Contrato mera tenencia,,9.9,0.0,47.1,Proyección,10
+2026-09,120107,Contrato mera tenencia,,9.1,0.0,50.6,Proyección,11
+2026-10,120107,Contrato mera tenencia,,8.5,0.0,54.0,Proyección,12
+2025-11,120108,Tipo pendiente por clasificar,3.0,3.0,,,Histórico,1
+2025-12,120108,Tipo pendiente por clasificar,1.0,1.0,,,Histórico,2
+2026-02,120108,Tipo pendiente por clasificar,7.0,7.0,,,Histórico,4
+2026-03,120108,Tipo pendiente por clasificar,3.0,3.0,,,Histórico,5
+2026-04,120108,Tipo pendiente por clasificar,61.0,61.0,,,Histórico,6
+2026-05,120108,Tipo pendiente por clasificar,,50.1,23.8,76.4,Proyección,7
+2026-06,120108,Tipo pendiente por clasificar,,61.7,24.5,98.9,Proyección,8
+2026-07,120108,Tipo pendiente por clasificar,,73.2,27.7,118.7,Proyección,9
+2026-08,120108,Tipo pendiente por clasificar,,84.6,32.0,137.2,Proyección,10
+2026-09,120108,Tipo pendiente por clasificar,,96.0,37.2,154.8,Proyección,11
+2026-10,120108,Tipo pendiente por clasificar,,107.4,43.0,171.8,Proyección,12
+2025-11,120109,Tipo pendiente por clasificar,5.0,5.0,,,Histórico,1
+2025-12,120109,Tipo pendiente por clasificar,9.0,9.0,,,Histórico,2
+2026-01,120109,Tipo pendiente por clasificar,2.0,2.0,,,Histórico,3
+2026-02,120109,Tipo pendiente por clasificar,3.0,3.0,,,Histórico,4
+2026-04,120109,Tipo pendiente por clasificar,7.0,7.0,,,Histórico,6
+2026-05,120109,Tipo pendiente por clasificar,,4.6,0.4,8.8,Proyección,7
+2026-06,120109,Tipo pendiente por clasificar,,4.4,0.0,10.3,Proyección,8
+2026-07,120109,Tipo pendiente por clasificar,,4.4,0.0,11.6,Proyección,9
+2026-08,120109,Tipo pendiente por clasificar,,4.3,0.0,12.6,Proyección,10
+2026-09,120109,Tipo pendiente por clasificar,,4.2,0.0,13.5,Proyección,11
+2026-10,120109,Tipo pendiente por clasificar,,4.2,0.0,14.4,Proyección,12
+2026-01,120110,Tipo pendiente por clasificar,26.0,26.0,,,Histórico,3
+2026-04,120110,Tipo pendiente por clasificar,1.0,1.0,,,Histórico,6
+2026-05,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,7
+2026-06,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,8
+2026-07,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,9
+2026-08,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,10
+2026-09,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,11
+2026-10,120110,Tipo pendiente por clasificar,,13.5,0.0,34.1,Proyección,12
+2025-11,120112,Contratos de vinculación,148.0,148.0,,,Histórico,1
+2025-12,120112,Contratos de vinculación,51.0,51.0,,,Histórico,2
+2026-01,120112,Contratos de vinculación,65.0,65.0,,,Histórico,3
+2026-02,120112,Contratos de vinculación,37.0,37.0,,,Histórico,4
+2026-03,120112,Contratos de vinculación,19.0,19.0,,,Histórico,5
+2026-04,120112,Contratos de vinculación,293.0,293.0,,,Histórico,6
+2026-05,120112,Contratos de vinculación,,306.8,133.4,480.2,Proyección,7
+2026-06,120112,Contratos de vinculación,,387.6,142.4,632.8,Proyección,8
+2026-07,120112,Contratos de vinculación,,452.2,151.9,752.5,Proyección,9
+2026-08,120112,Contratos de vinculación,,503.9,157.2,850.6,Proyección,10
+2026-09,120112,Contratos de vinculación,,545.2,157.6,932.8,Proyección,11
+2026-10,120112,Contratos de vinculación,,578.3,153.7,1002.9,Proyección,12
+2025-11,120115,Exoneración impuesto rentas y registro,28.0,28.0,,,Histórico,1
+2025-12,120115,Exoneración impuesto rentas y registro,23.0,23.0,,,Histórico,2
+2026-02,120115,Exoneración impuesto rentas y registro,1.0,1.0,,,Histórico,4
+2026-03,120115,Exoneración impuesto rentas y registro,50.0,50.0,,,Histórico,5
+2026-04,120115,Exoneración impuesto rentas y registro,31.0,31.0,,,Histórico,6
+2026-05,120115,Exoneración impuesto rentas y registro,,36.4,11.7,61.1,Proyección,7
+2026-06,120115,Exoneración impuesto rentas y registro,,39.6,4.6,74.6,Proyección,8
+2026-07,120115,Exoneración impuesto rentas y registro,,42.9,0.1,85.7,Proyección,9
+2026-08,120115,Exoneración impuesto rentas y registro,,46.1,0.0,95.5,Proyección,10
+2026-09,120115,Exoneración impuesto rentas y registro,,49.2,0.0,104.5,Proyección,11
+2026-10,120115,Exoneración impuesto rentas y registro,,52.4,0.0,112.9,Proyección,12
+2025-11,120124,Tipo pendiente por clasificar,54.0,54.0,,,Histórico,1
+2025-12,120124,Tipo pendiente por clasificar,39.0,39.0,,,Histórico,2
+2026-01,120124,Tipo pendiente por clasificar,120.0,120.0,,,Histórico,3
+2026-02,120124,Tipo pendiente por clasificar,101.0,101.0,,,Histórico,4
+2026-03,120124,Tipo pendiente por clasificar,73.0,73.0,,,Histórico,5
+2026-04,120124,Tipo pendiente por clasificar,9.0,9.0,,,Histórico,6
+2026-05,120124,Tipo pendiente por clasificar,,3.2,0.0,75.6,Proyección,7
+2026-06,120124,Tipo pendiente por clasificar,,0.0,0.0,102.4,Proyección,8
+2026-07,120124,Tipo pendiente por clasificar,,0.0,0.0,125.4,Proyección,9
+2026-08,120124,Tipo pendiente por clasificar,,0.0,0.0,144.8,Proyección,10
+2026-09,120124,Tipo pendiente por clasificar,,0.0,0.0,161.9,Proyección,11
+2026-10,120124,Tipo pendiente por clasificar,,0.0,0.0,177.4,Proyección,12
+2025-11,120125,Tipo pendiente por clasificar,18.0,18.0,,,Histórico,1
+2025-12,120125,Tipo pendiente por clasificar,13.0,13.0,,,Histórico,2
+2026-01,120125,Tipo pendiente por clasificar,56.0,56.0,,,Histórico,3
+2026-02,120125,Tipo pendiente por clasificar,99.0,99.0,,,Histórico,4
+2026-03,120125,Tipo pendiente por clasificar,30.0,30.0,,,Histórico,5
+2026-04,120125,Tipo pendiente por clasificar,27.0,27.0,,,Histórico,6
+2026-05,120125,Tipo pendiente por clasificar,,55.3,9.5,101.1,Proyección,7
+2026-06,120125,Tipo pendiente por clasificar,,57.5,0.0,122.3,Proyección,8
+2026-07,120125,Tipo pendiente por clasificar,,59.2,0.0,138.6,Proyección,9
+2026-08,120125,Tipo pendiente por clasificar,,60.7,0.0,152.4,Proyección,10
+2026-09,120125,Tipo pendiente por clasificar,,61.8,0.0,164.3,Proyección,11
+2026-10,120125,Tipo pendiente por clasificar,,62.7,0.0,175.0,Proyección,12
+2025-12,Comple,Sobre mal marcado,1.0,1.0,,,Histórico,2
+2026-01,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,3
+2026-02,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,4
+2026-03,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,5
+2026-04,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,6
+2026-05,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,7
+2026-06,Comple,Sobre mal marcado,,1.0,0.5,1.5,Proyección,8
+2026-02,FORMUL,Sobre mal marcado,1.0,1.0,,,Histórico,4
+2026-03,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,5
+2026-04,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,6
+2026-05,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,7
+2026-06,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,8
+2026-07,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,9
+2026-08,FORMUL,Sobre mal marcado,,1.0,0.5,1.5,Proyección,10
